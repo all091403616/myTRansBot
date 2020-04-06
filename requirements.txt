@@ -3,7 +3,7 @@ decorator==4.4.2
 tornado==6.0.4
 certifi==2018.8.24
 googletrans==2.4.0
-urllib3==1.24.1
+urllib3==1.24.2
 future==0.16.0
 ujson==2.0.3
 python-telegram-bot==12.5.1
